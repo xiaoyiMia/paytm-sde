@@ -36,3 +36,5 @@ LinkedList is suitable for situation that ADD/GET operations usually happens on 
 
 ArrayList is suitable for situation that ADD operations happens rarely or only happens at last position.
 `averageLastMoving(lastN)` is more efficient with smaller `lastN`.
+
+## System Design is in Challenge-2-System-Design: https://github.com/xiaoyiMia/paytm-sde/blob/master/Challenge-2-System-Design.pdf
